@@ -1,0 +1,9 @@
+drop table island;
+drop table island_sea;
+drop table knowledge;
+drop table knowledge_reality;
+drop table reality;
+drop table science;
+drop table science_knowledge;
+drop table sea;
+drop table sea_science;
